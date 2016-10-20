@@ -12,7 +12,9 @@ class ClientsController < ApplicationController
 		@client = Client.create(clients_params)
 	end
 
-
+	def show
+		@client = Client.find(params[:id])
+	end
 
 	private
 	def clients_params

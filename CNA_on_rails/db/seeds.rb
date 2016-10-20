@@ -5,3 +5,8 @@
 #
 #   cities = City.create([{ name: 'Chicago' }, { name: 'Copenhagen' }])
 #   Mayor.create(name: 'Emanuel', city: cities.first)
+
+Client.destroy_all()
+
+c1 = Client.create(organization: "Randall's", individual: "Randy", legislation: 1)
+c2 = Client.create(organization: "Zabars", individual: "Eli", legislation: 2)
