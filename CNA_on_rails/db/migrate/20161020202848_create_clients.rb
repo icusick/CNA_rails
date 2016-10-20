@@ -5,7 +5,7 @@ class CreateClients < ActiveRecord::Migration
       t.string :individual
       t.boolean :legislation
       t.string :legislation_notes
-      t.references :product, index: true, foreign_key: true
+      t.string :product
       t.boolean :committees
       t.string :commitees_notes
       t.boolean :road

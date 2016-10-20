@@ -5,7 +5,7 @@ one:
   individual: MyString
   legislation: false
   legislation_notes: MyString
-  product_id: 
+  product: MyString
   committees: false
   commitees_notes: MyString
   road: false
@@ -14,15 +14,15 @@ one:
   current_tracking_tool: false
   others: false
   others_notes: MyString
-  created_at: 2016-10-20 14:48:09
-  updated_at: 2016-10-20 14:48:09
+  created_at: 2016-10-20 15:28:48
+  updated_at: 2016-10-20 15:28:48
 
 two:
   organization: MyString
   individual: MyString
   legislation: false
   legislation_notes: MyString
-  product_id: 
+  product: MyString
   committees: false
   commitees_notes: MyString
   road: false
@@ -31,5 +31,5 @@ two:
   current_tracking_tool: false
   others: false
   others_notes: MyString
-  created_at: 2016-10-20 14:48:09
-  updated_at: 2016-10-20 14:48:09
+  created_at: 2016-10-20 15:28:48
+  updated_at: 2016-10-20 15:28:48
