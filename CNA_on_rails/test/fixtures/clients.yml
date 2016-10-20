@@ -1,0 +1,35 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  organization: MyString
+  individual: MyString
+  legislation: false
+  legislation_notes: MyString
+  product_id: 
+  committees: false
+  commitees_notes: MyString
+  road: false
+  time: false
+  tech_savy: false
+  current_tracking_tool: false
+  others: false
+  others_notes: MyString
+  created_at: 2016-10-20 14:48:09
+  updated_at: 2016-10-20 14:48:09
+
+two:
+  organization: MyString
+  individual: MyString
+  legislation: false
+  legislation_notes: MyString
+  product_id: 
+  committees: false
+  commitees_notes: MyString
+  road: false
+  time: false
+  tech_savy: false
+  current_tracking_tool: false
+  others: false
+  others_notes: MyString
+  created_at: 2016-10-20 14:48:09
+  updated_at: 2016-10-20 14:48:09
